@@ -1,0 +1,1 @@
+# VirtualBox-ile-Ubuntu-Kurulumu
