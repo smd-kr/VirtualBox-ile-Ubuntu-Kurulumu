@@ -21,12 +21,12 @@ Kullandığımız işletim sistemine göre Virtual Platform Packages'ten inidrme
 
 https://www.virtualbox.org/wiki/Downloads
 ## 3.KURULUM İŞLEMLERİ
-VirtualBox'u açtıktan sonra karşımıza gelen tüm ekranlarda evet'e basıp kurulumu yapıyoruz ardından indirdiğimiz Virtual Platform Packages dosyasını açıp onay işlemi veriyoruz
+VirtualBox'u açtıktan sonra karşımıza gelen tüm ekranlarda evet'e basıp kurulumu yapıyoruz ardından indirdiğimiz Virtual Platform Packages dosyasını açıp onay işlemi veriyoruz.
 ## 4.UBUNTU'YU KURMA
 ![Ekran görüntüsü 2024-10-26 183334](https://github.com/user-attachments/assets/8ca0545a-70e4-42bb-8786-1910ff4e2a86)
 -Yeni ye basacaz.
 ![Ekran görüntüsü 2024-10-26 183445](https://github.com/user-attachments/assets/ce0b1061-d7c8-4445-a5e1-b02b0ce725e3)
--Ad:Kullanıcı ismimiz
+-Ad:Kullanıcı ismimiz.
 
 -Klasör:Ubuntu'nun kurulacağı yer.
 
