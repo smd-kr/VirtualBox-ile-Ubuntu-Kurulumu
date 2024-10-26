@@ -28,9 +28,9 @@ VirtualBox'u açtıktan sonra karşımıza gelen tüm ekranlarda evet'e basıp k
 ![Ekran görüntüsü 2024-10-26 183445](https://github.com/user-attachments/assets/ce0b1061-d7c8-4445-a5e1-b02b0ce725e3)
 -Ad:Kullanıcı ismimiz
 
--Klasör:Ubuntu'nun kurulacağı yer
+-Klasör:Ubuntu'nun kurulacağı yer.
 
--ISO Kalıbı:İndirdiğimiz ISO Ubuntu dosyamızın seçildiği yer
+-ISO Kalıbı:İndirdiğimiz ISO Ubuntu dosyamızın seçildiği yer.
 
 -Katılımsız Kurulumu atla Seçtikten sonra ileri.
 ![Ekran görüntüsü 2024-10-26 183635](https://github.com/user-attachments/assets/49586c18-b44b-4c09-a44d-3db8d45bc807)
@@ -38,7 +38,7 @@ VirtualBox'u açtıktan sonra karşımıza gelen tüm ekranlarda evet'e basıp k
 
 -İşlemciler:Ubunut için Kullanacağımız İşlemci sayısı 4-6 arası yeterli olacaktır.
 ![Ekran görüntüsü 2024-10-26 183843](https://github.com/user-attachments/assets/d76bf976-0c5b-4db3-9f9f-4cf3ef0cb84e)
--Burda Ubuntu için kullanacağımız depoalama alanını belirleyeceğiz 25+GB için şimdilik yeterli olacaktır.İleriye basalım.
+-Burda Ubuntu için kullanacağımız depoalama alanını belirleyeceğiz 25+GB şimdilik yeterli olacaktır.İleriye basalım.
 ![Ekran görüntüsü 2024-10-27 004601](https://github.com/user-attachments/assets/8f0576c1-bfa9-4339-92b2-aeca2ea49b89)
 -Sanal Ubuntu işletim sistemimiz kuruldu başlata basıp açıyoruz.
 ![Ekran görüntüsü 2024-10-26 220040](https://github.com/user-attachments/assets/bea3bc05-5705-41be-a4d6-22a70b6cce33)
@@ -67,7 +67,7 @@ VirtualBox'u açtıktan sonra karşımıza gelen tüm ekranlarda evet'e basıp k
 ![Ekran görüntüsü 2024-10-26 220456](https://github.com/user-attachments/assets/820e5a63-818c-4e6c-82c2-7147ec41c213)
 -Saat dilimini seçelim.
 ![Ekran görüntüsü 2024-10-26 220503](https://github.com/user-attachments/assets/419640ad-e4f7-41f5-ba55-285aba71ce9c)
--Burda Kur'a Bastıktan sonra Ubuntu işletim sistemimizi VirtualBox üzerinden çalıştırıp deneyelim.Herhangibir hata almanız durumunda adımları inceleyip baştan yapınız.
+-Burda Kur'a Bastıktan sonra Ubuntu işletim sistemimizi VirtualBox üzerinden çalıştırıp deneyelim.Herhangi bir hata almanız durumunda adımları inceleyip baştan yapınız.
 
 
 
